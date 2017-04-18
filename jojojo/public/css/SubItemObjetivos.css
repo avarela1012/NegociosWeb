@@ -1,0 +1,51 @@
+#g{
+  position: absolute;
+  left: 700px;
+  top: 300px;
+}
+
+.generales p{
+  position: absolute;
+  left: 700px;
+  top: 350px;
+  width: 500px;
+  text-align: justify;
+}
+
+#e{
+  position: absolute;
+  left: 700px;
+  top: 450px;
+}
+
+#p1{
+  position: absolute;
+  left: 700px;
+  top: 500px;
+  width: 500px;
+  text-align: justify;
+}
+
+#p2{
+  position: absolute;
+  left: 700px;
+  top: 550px;
+  width: 500px;
+  text-align: justify;
+}
+
+#p3{
+  position: absolute;
+  left: 700px;
+  top: 580px;
+  width: 500px;
+  text-align: justify;
+}
+
+#p4{
+  position: absolute;
+  left: 700px;
+  top: 610px;
+  width: 500px;
+  text-align: justify;
+}

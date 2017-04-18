@@ -1,0 +1,50 @@
+@media (min-width:480px) {
+  .historia h2{
+    position: absolute;
+    top: 310px;
+    left: 50px;
+  }
+
+  .historia p
+  {
+    position: absolute;
+    top: 360px;
+    left: 50px;
+    width: 370px;
+    text-align: justify;
+  }
+}
+
+@media (min-width:768px) {
+  .historia h2{
+    position: absolute;
+    top: 420px;
+    left: 50px;
+  }
+
+  .historia p
+  {
+    position: absolute;
+    top: 470px;
+    left: 50px;
+    width: 650px;
+    text-align: justify;
+  }
+}
+
+@media (min-width:1024px) {
+  .historia h2{
+    position: absolute;
+    top: 390px;
+    left: 500px;
+  }
+
+  .historia p
+  {
+    position: absolute;
+    top: 440px;
+    left: 500px;
+    width: 420px;
+    text-align: justify;
+  }
+}

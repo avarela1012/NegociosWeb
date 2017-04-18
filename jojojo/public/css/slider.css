@@ -1,0 +1,49 @@
+#outerbox{
+  width: 480px;
+  overflow: hidden;
+}
+
+#sliderbox{
+  position: relative;
+  width: 3500px;
+  animation-name: cambio;
+  animation-duration: 25s;
+  animation-iteration-count: infinite;
+}
+
+#sliderbox img{
+  float: left;
+}
+
+@keyframes cambio {
+  0%{
+    left: 0px;
+  }
+  20%{
+    left: 0px;
+  }
+  30%{
+    left: -480px;
+  }
+  40%{
+    left: -480px;
+  }
+  50%{
+    left: -960px;
+  }
+  60%{
+    left: -960px;
+  }
+  70%{
+    left: -1440px;
+  }
+  80%{
+    left: -1440px;
+  }
+  90%{
+    left: -1920px;
+  }
+  100%{
+    left: -1920px;
+  }
+}
